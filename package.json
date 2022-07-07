@@ -4,7 +4,9 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
+    //nexus repo
     "registry": "http://44.204.50.64:8081/repository/acadarepo/"
+    //YWRtaW46YWRtaW4xMjM=
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
